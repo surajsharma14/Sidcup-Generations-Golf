@@ -23,7 +23,7 @@ elem.addEventListener("mouseleave", function (){
 });
 
 gsap.to("#nav", {
-    backgroundColor: "#000",
+    backgroundColor: "#3b3636f0",
     duration: 0.5,
     height: "110px",
     scrollTrigger: {
