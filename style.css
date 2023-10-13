@@ -444,6 +444,34 @@ video {
     margin-bottom: 8px;
 }
 
+#services {
+    background-color: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+    text-align: center;
+}
+
+.service {
+    margin: 40px 0;
+}
+
+.service img {
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.service h2 {
+    font-size: 2.5em;
+    margin: 20px 0;
+}
+
+.service p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
 
 
 
