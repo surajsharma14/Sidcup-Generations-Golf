@@ -444,6 +444,47 @@ video {
     margin-bottom: 8px;
 }
 
+#services {
+    text-align: center;
+    margin: 20px;
+}
 
+.service {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.service img {
+    max-width: 100%;
+}
+
+.service h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+/* Style for the "Gallery" section */
+#gallery {
+    text-align: center;
+    margin: 20px;
+}
+
+.image-container {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+}
+
+.image-container img {
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 2em;
+}
 
 
